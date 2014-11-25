@@ -1,3 +1,0 @@
-#Tomcat publish data
-#Tue Nov 25 10:06:40 CET 2014
-org.eclipse.jst.j2ee.server\:eBus-Framework=WEB-INF/lib/eBus-Framework.jar

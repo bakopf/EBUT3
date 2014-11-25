@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="de.htwg_konstanz.ebus.wholesaler.demo.IAction"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.impl.orbutil.closure.Constant"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.Constants"/>
+<fullyQualifiedTypeName name="de.htwg_konstanz.ebus.framework.wholesaler.vo.util.Constants"/>
+<fullyQualifiedTypeName name="de.htwg_konstanz.ebus.wholesaler.demo.util.Constants"/>
+</qualifiedTypeNameHistroy>

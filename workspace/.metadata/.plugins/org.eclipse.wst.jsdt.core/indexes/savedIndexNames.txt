@@ -1,8 +1,7 @@
-INDEX VERSION 1.3+C:\Users\Alex\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-690616488.index
-1360280055.index
+INDEX VERSION 1.3+Z:\EBUT\3\Github EBUT Aufgabe3\EBUT3\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3919090774.index
+1080070293.index
 2533398393.index
-3201527249.index
-4137328711.index
-45046761.index
-1867821897.index
+2521265537.index
+2943046299.index
+3382802945.index
