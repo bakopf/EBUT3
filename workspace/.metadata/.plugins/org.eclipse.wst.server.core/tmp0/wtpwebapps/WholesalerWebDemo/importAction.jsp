@@ -1,14 +1,36 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>eBusiness Framework Demo - Orders</title>
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="pragma" content="no-cache">
+<link rel="stylesheet" type="text/css" href="default.css">
 </head>
+
 <body>
 
-Dies ist die Import Seite
+
+<%@ include file="header.jsp" %>
+<%@ include file="error.jsp" %>
+<%@ include file="authentication.jsp" %>
+<%@ include file="navigation.jspfragment" %>
+
+
+<!-- Hier kommt der import Code -->
+
+
+<form action="input_file.htm" method="post" enctype="multipart/form-data">
+  <p>Datei auswählen: <br>
+    <input type="file">
+  </p>
+</form>
+
+
+
+
+
 
 </body>
 </html>

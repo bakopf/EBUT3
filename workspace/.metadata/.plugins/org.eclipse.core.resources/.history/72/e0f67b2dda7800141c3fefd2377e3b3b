@@ -1,0 +1,36 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>eBusiness Framework Demo - Orders</title>
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="pragma" content="no-cache">
+<link rel="stylesheet" type="text/css" href="default.css">
+</head>
+
+<body>
+
+
+<%@ include file="header.jsp" %>
+<%@ include file="error.jsp" %>
+<%@ include file="authentication.jsp" %>
+<%@ include file="navigation.jspfragment" %>
+
+
+<!-- Hier kommt der import Code -->
+
+
+<form action="input_file.htm" method="post" enctype="multipart/form-data">
+  <p>W&auml;hlen Sie eine Textdatei (txt, html usw.) von Ihrem Rechner aus:<br>
+    <input name="Datei" type="file" size="50" maxlength="100000" accept="text/*">
+  </p>
+</form>
+
+
+
+
+
+
+</body>
+</html>
